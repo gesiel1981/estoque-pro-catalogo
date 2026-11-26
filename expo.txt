@@ -1,0 +1,5 @@
+Depois que o novo APK estiver instalado, quando você modificar o código, poderá publicar assim:
+
+npx.cmd eas-cli@latest update --channel preview --message "Atualização do Estoque Pro"
+
+
